@@ -7,7 +7,7 @@ void main() {
             String middleName = "Ivan";
             String lastName = "Ivanovich";
             String fullName = firstName + " " + middleName + " " + lastName;
-            System.out.println("fullName = " + fullName);
+            System.out.println("Ф. И. О. сотрудника — " + fullName);
 
             // Задача №2
             System.out.println("Задача №2");
