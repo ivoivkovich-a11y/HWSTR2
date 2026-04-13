@@ -14,6 +14,7 @@ void main() {
             String fullNameUppedrCase = fullName.toUpperCase();
             System.out.println("Данные Ф. И. О. сотрудника для заполнения отчета — " + fullNameUppedrCase);
         }
+
         {
             // Задача №3
             System.out.println("Задача №3");
